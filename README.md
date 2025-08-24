@@ -1,2 +1,5 @@
-# mini-quiz
-Quizzes do material do Mini Curso para testar seu conhecimento.
+# Ferramentas do NihonGO
+
+Algumas ferramentas que desenvolvemos pros estudantes de japonês.
+
+- (Quiz de Hiragana)[/hiragana.html]
