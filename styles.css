@@ -9,7 +9,7 @@ html {
   background: url(background-red.webp);
   background-size: cover;
   display: flex;
-  height: 100dvh;
+  min-height: 100dvh;
   justify-content: center;
 }
 
