@@ -6,7 +6,10 @@
 }
 
 html {
-  background: url(background-red.webp);
+  background-attachment: fixed;
+  background-color: #eee;
+  background-image: url(background-red.webp);
+  background-repeat: no-repeat;
   background-size: cover;
   display: flex;
   min-height: 100dvh;
